@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/ankitgupta61/YoutubeLikeNestedComment](https://github.com/ankitgupta61/YoutubeLikeNestedComment)
-- Live Site URL: [https://ankitproject-todoapp.netlify.app/](https://ankitproject-todoapp.netlify.app/)
+- Live Site URL: [https://nested-comment-ankitgupt61.netlify.app/](https://nested-comment-ankitgupt61.netlify.app/)
 
 ## My process
 
